@@ -1,2 +1,4 @@
 data/bot/TOKEN.txt
 data/bot/t.txt
+data/server/*
+__pycache__

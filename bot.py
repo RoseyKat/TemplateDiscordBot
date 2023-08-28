@@ -3,7 +3,7 @@ import responses
 from time import sleep
 
 def get_token():
-    with open("data/bot/TOKEN", "r") as f:
+    with open("data/bot/t.txt", "r") as f:
         return str(f.read())
     
 TOKEN = get_token()
